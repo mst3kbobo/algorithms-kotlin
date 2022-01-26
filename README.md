@@ -1,2 +1,3 @@
 # algorithms-kotlin
-Project for learning algorithms using the Kotlin language.
+
+Playground project for learning and experimenting with algorithms using Kotlin.
