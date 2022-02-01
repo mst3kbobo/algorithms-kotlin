@@ -2,6 +2,11 @@
 
 Playground project for learning and experimenting with algorithms using Kotlin.
 
+* BinarySearch
+* BubbleSort
+* NthFibonacci
+* QuickSort
+
 #### List of resources used for learning:
 * AlgoExpert - https://www.algoexpert.io
 * Codecademy - https://www.codecademy.com
